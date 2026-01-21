@@ -6,7 +6,7 @@ Actualmente enfocado en Python, Odoo y Data Science, desarrollando soluciones re
 ---
 
 ## 🧩 Proyectos Odoo
-- **odoo-prj-consultorio**  
+- **odoo-gestion-consultorio**  
   Módulo Odoo para la gestión integral de un consultorio profesional  
   (agenda, pacientes, facturación, permisos)
 
