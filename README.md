@@ -47,4 +47,4 @@ Actualmente enfocado en Python, Odoo y Data Science, desarrollando soluciones re
 ---
 
 📫 **Contacto**  
-[LinkedIn]([https://www.linkedin.com/in/luis-martin-alegre/]) | luismartinalegre@gmail.com
+[LinkedIn] https://www.linkedin.com/in/luis-martin-alegre/ | luismartinalegre@gmail.com
