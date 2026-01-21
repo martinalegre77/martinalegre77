@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hola, soy Martín Alegre
 
-<!--
-**martinalegre77/martinalegre77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Licenciado en Informática con experiencia en desarrollo de software, automatización y análisis de datos. 
+Actualmente enfocado en Python, Odoo y Data Science, desarrollando soluciones reales orientadas a negocio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Proyectos Odoo
+- **odoo-prj-consultorio**  
+  Módulo Odoo para la gestión integral de un consultorio profesional  
+  (agenda, pacientes, facturación, permisos)
+
+---
+
+## 🐍 Proyectos Python
+- **python-presupuesto-app**  
+  Aplicación de escritorio para generación de presupuestos comerciales
+- **django-prj-clinica-deportiva**  
+  Aplicación web para generar aptos físicos con Qr  
+- **python-game-truco**  
+  Implementación de lógica y reglas del juego Truco en Python
+
+---
+
+## 📊 Data Science
+- **data-scientist-projects**  
+  Proyectos de análisis exploratorio y modelado de datos  
+- **data-analytics-projects**  
+  Visualización y análisis de datasets reales
+
+---
+
+## 🌐 Portfolio
+- **martinalegre77.github.io**  
+  Portfolio personal con proyectos y experiencia
+
+---
+
+## 🛠️ Tecnologías
+- Python
+- Odoo
+- Django
+- PostgreSQL
+- Pandas / NumPy
+- Git & GitHub
+
+---
+
+📫 **Contacto**  
+[LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/luis-martin-alegre/)) | luismartinalegre@gmail.com
